@@ -8,10 +8,12 @@ A Timed Online Recorded Collaborative Hub (TORCH)
 
 What is Sandcastles?
 --------------------
+
 	Sandcastles is a webapp that allows users to work in a Timed Online Recorded Collaborative Hub (TORCH). These torches are workspaces with varying levels of user management, intuitive creativity tools, and group organization tools. Members of a workspace have a limited amount of time to collaborate in a variety of electronic media environments. When time runs out, the project is frozen as-is and indexed for publishing. Limiting time enforces a rapid work environment, encourages cooperation, and creates emphasis on minimum production rather than painstaking detail.
 	
 How will it be implemented?
 ---------------------------
+
 	Web-based application (Mobile - possible extension) 
 	Specific workspaces (called Towers)
 		*Typesite (for Writing)
@@ -28,6 +30,7 @@ How will it be implemented?
 
 Who will use this product?
 --------------------------
+
 	*Teachers & Students
 	*Group project members
 	*Artists & creative thinkers

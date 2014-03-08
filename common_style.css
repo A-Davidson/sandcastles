@@ -1,0 +1,33 @@
+*{
+	font-family: "Proxima Nova", "Helvetica", "Arial";
+}
+title{ 
+	color: #003399;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 4em;
+}
+h1{
+	color: #0099CC;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 3em;
+}
+h2{
+	color: #330099;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 2.5em;
+}
+h3{
+	color: #33CCFF;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.5em;
+}
+body{
+	color: #003399;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1em;
+}

@@ -1,6 +1,4 @@
-#sandcastles
-
-##Sandcastles Web-App for ACM Jamathon
+#Sandcastles
 
 A Timed Online Recorded Collaborative Hub (TORCH)
 
